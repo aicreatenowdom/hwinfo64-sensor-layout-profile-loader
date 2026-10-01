@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://aicreatenow.com/">
-    <img src="organization-logo.png" alt="AI Creations Now Software Development" width="120" height="120">
+  <a href="https://aicreatenow.com/hwinfo64loader.html">
+    <img src="hwinfo-loader-headline-v2.jpg" alt="AI Creations Now HW Info 64 Profile Loader — ten sensor profile slots and protected stock profile" width="900">
   </a>
 </p>
 
