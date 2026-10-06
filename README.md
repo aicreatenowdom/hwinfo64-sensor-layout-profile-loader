@@ -41,6 +41,12 @@ The companion manages saved sensor settings; HWiNFO64 performs the monitoring an
 
 For product help, see [Support](SUPPORT.md) or email [info@aicreatenow.com](mailto:info@aicreatenow.com).
 
+## Practical guide and release notes
+
+[Getting started and common questions](GETTING-STARTED.md) · [GitHub release notes](https://github.com/aicreatenowdom/hwinfo64-sensor-layout-profile-loader/releases) · [Support](SUPPORT.md)
+
+GitHub's **Code → Download ZIP** contains this repository's documentation and artwork. Get the Windows application through the [official product page](https://aicreatenow.com/hwinfo64loader.html).
+
 ## Source and licensing
 
 This repository contains documentation for proprietary software. Application source code is not included. Obtain the application and its applicable terms through the official product page.
